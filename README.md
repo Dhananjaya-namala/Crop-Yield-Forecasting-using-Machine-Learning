@@ -1,13 +1,13 @@
 # Crop-Yield-Forecasting-using-Machine-Learning
-## Technologies Used Frontend: HTML, CSS
+**Technologies Used Frontend:** HTML, CSS
 
-Backend: Python (Flask)
+**Backend**: Python (Flask)
 
-Database: MySQL
+**Database:** MySQL
 
-ML Libraries: Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
+**ML Libraries:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
 
-Tools: Plotly, Dash (for data visualization), Jupyter
+**Tools:** Plotly, Dash (for data visualization), Jupyter
 
 📌 Features Accepts input data such as rainfall, temperature, humidity, soil type, and pesticide usage.
 
@@ -21,7 +21,7 @@ Stores user inputs and predictions in a database.
 
 User-friendly login and registration system for secure access.
 
-📊 Machine Learning Models Used:
+# 📊 Machine Learning Models Used:
 
 Decision Tree Regressor
 
